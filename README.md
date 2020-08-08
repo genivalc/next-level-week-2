@@ -34,11 +34,11 @@ A proposta do projeto é uma aplicação que possa ligar quem deseja aprender, c
 O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 - [HTML][html]
-- CSS
-- JavaScript
-- Node.js 
-- Nunjucks 
-- SQLite 
+- [CSS][css]
+- [JavaScript][js]
+- [Node.js][node] 
+- [Nunjucks][nunjuck]
+- [SQLite][sqllite]
 
 --- 
 
@@ -60,8 +60,11 @@ Feito isso, abra o seu navegador e acesse `http://localhost:5000/`
 ---
 
 
-Desenvolvido com 💜 por Guilherme Capitão
+
 
 [html]: https://developer.mozilla.org/pt-BR/docs/Web/HTML
-[dart]: https://dart.dev/
-[flutter]: https://flutter.dev/
+[css]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
+[js]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+[node]: https://nodejs.org/en/
+[nunjuck]: https://mozilla.github.io/nunjucks/
+[sqllite]: https://www.sqlite.org/index.html
